@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Band on the run",
+        "author": "Garry McGEE",
+        "image": "Book1.jpg",
+        "description": "Band on the Run: A History of Paul McCartney and Wings by Garry McGee provides an in-depth look at the formation, success, and legacy of Paul McCartney’s post-Beatles band, Wings.",
+       
+    },
+    {
+        "title": "Still Here",
+        "author": "Alexandra Jacobs",
+        "image": "Book2.jpg",
+        "description": "Still Here: The Madcap, Nervy, Singular Life of Elaine Stritch by Alexandra Jacobs is a captivating biography of the iconic, bold, and complex Broadway and television legend Elaine Stritch.",
+        
+    },
+    {
+        "title": "ParaNorman",
+        "author": "Elizabeth Cody Kimmel",
+        "image": "Book3.jpg",
+        "description": "ParaNorman by Elizabeth Cody Kimmel follows a boy who can talk to ghosts as he must save his town from a centuries-old curse in a thrilling and spooky adventure.",
+        
+    },
+    {
+            "title": "The Thrifty Guide To Ancient Rome",
+            "author": "Jonathan W. Stokes",
+            "image": "Book4.jpg",
+            "description": "The Thrifty Guide to Ancient Rome by Jonathan W. Stokes is a humorous and educational handbook designed for time travelers, offering survival tips, historical facts, and engaging insights into life in Ancient Rome.",
+           
+    },
+    {
+            "title": "JoJo's Bizarre Adventur",
+            "author": "Hirohiko Araki",
+            "image": "Book5.jpg",
+            "description": "JoJo’s Bizarre Adventure: Part 3 - Stardust Crusaders by Hirohiko Araki follows Jotaro Kujo and his allies on a globe-trotting quest to defeat the immortal vampire Dio using their Stand powers.",
+            
+    },
+    {
+            "title": "The Time Warp",
+            "author": "Jon Scieszka",
+            "image": "Book6.jpg",
+            "description": "The Time Warp Trio: Marco? Polo! by Jon Scieszka follows three friends on a wild time-traveling adventure to meet Marco Polo and face unexpected challenges along the Silk Road.",
+            
+        },
+]
